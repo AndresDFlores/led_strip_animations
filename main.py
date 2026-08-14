@@ -1,5 +1,4 @@
 import time
-import math
 
 from pixel_strip import *
 from color_wheel import *
